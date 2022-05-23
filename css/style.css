@@ -1,6 +1,9 @@
 h1{
     font-size: 40px;
 }
+.testo-evidenziato {
+    background-color: yellow;
+}
 
 header{
     background-color: cornflowerblue;
