@@ -27,4 +27,15 @@ header{
 .credits {
     font-size: 11px;
 }
+.background-table-head {
+background-color:cornflowerblue;
+}
+.text-table-head {
+    color: white;
+}
+.background-table-body-1{
+    background-color: rgb(152, 191, 253);
+
+}
+
 
