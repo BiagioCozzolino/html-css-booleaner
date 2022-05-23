@@ -1,0 +1,23 @@
+h1{
+    font-size: 40px;
+}
+
+header{
+    background-color: cornflowerblue;
+    border-bottom-width: 100px;
+}
+.logo {
+   height: 50px; 
+}
+.first-title {
+    border-bottom-width: 100px;
+}
+.booleaner{
+    color: rgb(0, 125, 192);
+}
+.primoparagrafo {
+    color: gray;
+}
+.date {
+    font-size: 11px;
+}
